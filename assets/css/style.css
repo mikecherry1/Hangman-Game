@@ -1,0 +1,30 @@
+body {
+  background-image: url("http://cdn.wallpapersafari.com/13/64/CPRhx9.jpg");
+  background-repeat: no-repeat;
+  background-position: right top;
+  font-family: 'Source Code Pro', monospace;
+}
+
+h1, h2, h3, h4, {
+  font-family: 'Source Code Pro', monospace;
+}
+
+#mainGameSpace {
+  padding: 50px;
+}
+
+//.fa {
+//  color: #fff;
+}
+
+a,
+a:active,
+a:link,
+a:visited {
+  text-decoration: none;
+}
+
+
+#gameMessage {
+  padding: 50px;
+}
